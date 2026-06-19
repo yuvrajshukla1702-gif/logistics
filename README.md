@@ -1,4 +1,4 @@
-# logistics
+# Fleetpulse
 Responsive shipment tracking dashboard built with React + Tailwind CSS. Monitor routes, ETAs, and delivery status with a live simulation mode. Node.js backend setup started.
 # FleetPulse — Shipment Tracking Web Application
 
@@ -33,7 +33,17 @@ This is a learning/portfolio project. The **frontend is functional** and demo-re
 ## Getting Started
 
 ### Frontend
-```bash
+```Bash
 cd my-app
 npm install
 npm run dev
+```
+### Backend
+```
+cd my-backend
+npm install
+node index.js
+```
+Author
+Yuvraj Shukla — B.Tech CSE (AI), GNIOT
+
